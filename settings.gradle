@@ -1,0 +1,4 @@
+rootProject.name = 'null4jexample'
+include 'example'
+findProject(':example')?.name = 'null4jexample'
+

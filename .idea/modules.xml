@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/null4jexample.iml" filepath="$PROJECT_DIR$/.idea/modules/null4jexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example/null4jexample-null4jexample.iml" filepath="$PROJECT_DIR$/.idea/modules/example/null4jexample-null4jexample.iml" group="null4jexample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/null4jexample_main.iml" filepath="$PROJECT_DIR$/.idea/modules/null4jexample_main.iml" group="null4jexample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/null4jexample_test.iml" filepath="$PROJECT_DIR$/.idea/modules/null4jexample_test.iml" group="null4jexample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/projects-null4jexample.iml" filepath="$PROJECT_DIR$/.idea/modules/projects-null4jexample.iml" />
+    </modules>
+  </component>
+</project>
